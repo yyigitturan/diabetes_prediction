@@ -1,6 +1,5 @@
 # Diabetes Prediction Project
 
-![diabetes_image](images/diabetes_image.png)
 
 ## About
 
